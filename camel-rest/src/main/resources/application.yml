@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: camel-springboot-example
+  main:
+    web-application-type: servlet  # Spring Boot is running a servlet-based web application
